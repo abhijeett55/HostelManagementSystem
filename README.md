@@ -73,5 +73,3 @@ Add dark mode UI theme.
 
 ## 👨‍💻 Contributors
 Developer - Abhijeet Biswas
-
-## 👉 Do you want me to generate this as a **ready-to-download `README.md` file** and attach it here?
